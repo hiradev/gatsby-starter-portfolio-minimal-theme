@@ -2,18 +2,18 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
+    "title": "Hirusha Chamod Portfolio",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
+    "author": "Hirusha Chamod",
     "avatar": "../content/images/gatsby.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
+      "behance": "https://www.behance.net/hirushachamod",
+      "github": "https://github.com/hiradev",
       "medium": "https://medium.com/@hirushachamod",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "linkedin": "https://www.linkedin.com/in/hirusha-chamod/",
+      "mail": "mailto:hirushachamod@gmail.com"
     }
   },
   "siteConfiguration": {
