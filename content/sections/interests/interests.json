@@ -1,7 +1,7 @@
 {
   "interests": [
     {
-      "label": "Development experience with HTML, CSS, JS, SQL, PHP",
+      "label": " HTML, CSS, JS, SQL, PHP",
       "image": {
         "src": "../../images/joystick.png",
         "alt": ""
@@ -15,21 +15,21 @@
       }
     },
     {
-      "label": "Design experience in Figma, Adobe XD",
+      "label": "Figma, Adobe XD",
       "image": {
         "src": "../../images/nail-polish.png",
         "alt": ""
       }
     },
     {
-      "label": "Social Media Marketing and SEO",
+      "label": "Social Media Marketing",
       "image": {
         "src": "../../images/medium.png",
         "alt": ""
       }
     },
     {
-      "label": "Hands on experience with G-Suite and Microsoft office",
+      "label": "G-Suite",
       "image": {
         "src": "../../images/gem-stone.png",
         "alt": ""
