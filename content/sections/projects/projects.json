@@ -42,7 +42,7 @@
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
+    "label": "Visit on Medium",
     "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
   }
 }
