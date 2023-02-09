@@ -3,7 +3,7 @@ imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-Hirusha Chamod is currently a 3rd year undergraduate at University of Colombo School of Computing, studying Information Systems course, with experience in IT and Business. His background in coding, management and visual design inform his mindful but competitive approach. 
+Hirusha Chamod is currently a final year undergraduate at University of Colombo School of Computing, studying Information Systems course, with experience in IT and Business. His background in coding, management and visual design inform his mindful but competitive approach. 
 
 His hunger for knowledge and determination to turn information into action has contributed to his work studies. team skills and Leadership. Meanwhile, he vasty improved the productivity of his professionalism by implementing strategic management methods and ensuring a work-life balance for himself.
 
