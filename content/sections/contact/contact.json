@@ -7,7 +7,7 @@
     "alt": "Hirusha Chamod image"
   },
   "socialProfiles": {
-    "from": ["LinkedIn", "Whatsapp", "Github", "Mail"],
+    "from": ["LinkedIn", "WhatsApp", "Github", "Mail"],
     "showIcons": true
   }
 }
