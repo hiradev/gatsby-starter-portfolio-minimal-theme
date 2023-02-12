@@ -4,12 +4,12 @@ sectionId: imprint
 
 #### Information pursuant to § 5 TMG
 
-YOURNAME<br />
-YOURSTREET<br />
-YOURCITY<br />
-YOURCOUNTRY
+Hirusha Chamod<br />
+Sri Vijayarama Road<br />
+Ambalangoda<br />
+Sri Lanka
 
-E-Mail Address: <u>YOURMAIL@DOMAIN.COM</u>
+E-Mail Address: <u>hirushachamod@gmail.com</u>
 
 ---
 
