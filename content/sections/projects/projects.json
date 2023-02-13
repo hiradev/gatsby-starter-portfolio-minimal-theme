@@ -4,38 +4,38 @@
       "visible": true,
       "category": "🕹️ Build on MERN",
       "title": "Project GramaNiladari",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "description": "Grama Niladari is a platform which maintains ledger books and paper documents to record the data of people, has several concerns towards security, while searching or retrieving data. ",
+      "tags": ["ReactJS with Redux", "MySQL Cloud Clusters"],
       "image": {
         "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
         "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "linkTo": "https://github.com/hiradev/MYGS_Final"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/hiradev/MYGS_Final"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "#"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "🧰 Build on PHP MVC",
+      "title": "Project UniAcc",
+      "description": "UniAcc can help you compare prices across different areas in your destination city. Designed to provide students with a home away from home, UniAcc is a great student accommodation platform. It is an efficient online booking platform for monthly rentals of furnished housing options.",
+      "tags": ["PHP", "MVC"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/uniacc.png",
         "alt": "Extendable Layout"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/hiradev/UniAcc---New"
         }
       ]
     }
