@@ -16,6 +16,7 @@ export default function IndexPage() {
       <Seo title="Hirusha Chamod" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
+        <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Blog', 'Medium']} />
         <AboutSection sectionId="about" heading="About Myself" />
         <InterestsSection sectionId="details" heading="Skills" />
         <ProjectsSection sectionId="features" heading="Featured Projects" />
