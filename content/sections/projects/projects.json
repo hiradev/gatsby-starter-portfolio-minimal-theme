@@ -41,8 +41,8 @@
     }
   ],
   "button": {
-    "visible": false,
-    "label": "Visit on Medium",
-    "url": "https://medium.com/@hirushachamod"
+    "visible": true,
+    "label": "Visit my social media",
+    "url": "https://instagram.com/not.hirusha/"
   }
 }
