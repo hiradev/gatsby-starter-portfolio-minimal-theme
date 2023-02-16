@@ -1,6 +1,6 @@
 ---
 imageSrc: "../../images/Hirusha.png"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageAlt: "About myself"
 ---
 
 Hirusha Chamod is currently a final year undergraduate at University of Colombo School of Computing, studying Information Systems course, with experience in IT and Business. His background in coding, management and visual design inform his mindful but competitive approach. 
