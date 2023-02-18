@@ -22,8 +22,8 @@
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Blogs", "url": "/blogs" },
-        { "label": "Projects", "url": "https://medium.com/@hirushachamod" },
+        { "label": "Projects", "url": "/blogs" },
+        { "label": "Blogs", "url": "https://medium.com/@hirushachamod" },
         { "label": "Contact me", "url": "/#github" }
       ],
       "ctaButton": {
