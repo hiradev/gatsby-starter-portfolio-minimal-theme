@@ -1,5 +1,5 @@
 ---
-title: "This is an exemplary article for the blog."
+title: "This is an exemplary project."
 description: "This description will be used for the article listing and search results on Google."
 date: "2021-05-28"
 banner:
@@ -7,8 +7,8 @@ banner:
   alt: "First Markdown Post"
   caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
 categories:
-  - "Setup"
-  - "Tutorial"
+  - "Project"
+  - "Coming Soon"
 keywords:
   - "Example"
   - "Gatsby"
