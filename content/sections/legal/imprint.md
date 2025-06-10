@@ -5,8 +5,8 @@ sectionId: imprint
 #### Information pursuant to § 5 TMG
 
 Hirusha Chamod<br />
-Sri Vijayarama Road<br />
-Ambalangoda<br />
+28, Ramakrishna road<br />
+Wellawatte<br />
 Sri Lanka
 
 E-Mail Address: <u>hirushachamod@gmail.com</u>

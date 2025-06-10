@@ -10,11 +10,11 @@
   },
   "title": "I'm Hirusha",
   "subtitle": {
-    "prefix": "I build value through design ",
-    "highlight": "and develop",
+    "prefix": "I build value through ",
+    "highlight": "design and develop",
     "suffix": "."
   },
-  "description": "I'm a Sri Lankan designer/developer who loves building digital products.",
+  "description": "I'm a designer/developer who loves building digital products.",
   "socialProfiles": {
     "from": ["Github", "Medium", "Dribble", "Behance"],
     "showIcons": false
